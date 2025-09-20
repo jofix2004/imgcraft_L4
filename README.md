@@ -6,7 +6,7 @@
 
 ## 🚀 Google Colab
 
-[![Mở trong Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IcBElvQjIeAsMq8s7pYWDGz-yxI05Qy8?usp=sharing)
+[![Mở trong Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NKw6waf9j3J2jXZ9bBSPe7KQlxu5Q418?usp=sharing)
 
 ## 💻 Local
 
